@@ -1,0 +1,9 @@
+name,category,price,commission_pct,rating,review_count,demo_score,problem_score,saturation,sample_available,niche_fit,notes
+EXAMPLE stove gap cover,kitchen,14.99,20,4.6,3200,5,5,3,y,y,illustrative numbers - replace with real listing data
+EXAMPLE drill brush scrubber set,cleaning,19.99,18,4.7,8100,5,4,4,y,y,illustrative numbers - replace with real listing data
+EXAMPLE stackable fridge bins (6pk),organization,26.99,15,4.5,1500,4,4,3,n,y,illustrative numbers - replace with real listing data
+EXAMPLE electric spin scrubber,cleaning,45.99,15,4.4,2600,5,4,2,y,y,illustrative numbers - replace with real listing data
+EXAMPLE robot window cleaner,cleaning,129.00,12,4.3,900,5,3,2,y,y,illustrative numbers - replace with real listing data
+EXAMPLE cable organizer clips,desk,7.99,15,4.5,5000,3,3,4,y,y,illustrative numbers - replace with real listing data
+EXAMPLE no-name grout pen,cleaning,11.99,25,3.9,210,4,4,2,y,y,illustrative numbers - replace with real listing data
+EXAMPLE PDRN collagen balm,beauty,29.00,20,4.6,40000,2,3,5,y,n,top seller July 2026 per Kalodata but saturated and off-niche for a faceless home account
