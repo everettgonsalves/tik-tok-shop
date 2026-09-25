@@ -212,12 +212,12 @@ Send me your weekly numbers and I'll help figure out which part of the funnel is
 
 ---
 
-## 12. Decisions for you
+## 12. Decisions (settled September 2026)
 
-1. **Will you show your face?** Even 2 seconds of face in the hook reportedly lifts trust. Hands-only works, but has a lower ceiling.
-2. **Starting budget.** The plan assumes about $100 for products, plus an optional $20–$30 phone tripod or light.
-3. **Time.** The plan assumes about 1–1.5 hours a day (testing, filming 2–3 videos, replying to comments).
-4. **Niche.** The recommendation is home and cleaning, but your own interest matters more than a slightly better category.
+1. **Hands only.** Every video opens on the problem, not a face. Use your own voice for voiceovers: an AI voice needs the AI label and reportedly gets less reach.
+2. **Budget: $100.** About $75–$80 goes to 4 products and about $20 to an overhead phone mount, since top-down shots are the standard hands-only angle. A stack of books works until the mount arrives.
+3. **Niche: home and cleaning.** Start with cheap cleaning tools that show results fast. Skip vacuums, pressure washers and floor machines, which cost over $80, convert poorly and would use up the whole budget on one product.
+4. **Time.** The plan assumes about 1–1.5 hours a day (testing, filming 2–3 videos, replying to comments).
 
 ---
 
