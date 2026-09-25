@@ -219,6 +219,21 @@ Send me your weekly numbers and I'll help figure out which part of the funnel is
 3. **Niche: home and cleaning.** Start with cheap cleaning tools that show results fast. Skip vacuums, pressure washers and floor machines, which cost over $80, convert poorly and would use up the whole budget on one product.
 4. **Time.** The plan assumes about 1–1.5 hours a day (testing, filming 2–3 videos, replying to comments).
 
+### Phase 1 products
+
+| # | Product | Target price | Role |
+|---|---|---|---|
+| 1 | Cordless electric spin scrubber (multiple heads) | $20–$35 | Main earner: highest commission per sale, most filming options |
+| 2 | Drain hair clog remover | $10–$20 | Strongest hook (gross, then satisfying) |
+| 3 | 3-in-1 spray squeegee / glass wiper | $10–$20 | Streaky to clear on camera. Covers mirrors, shower doors and car windows. |
+| 4 | Crevice / gap cleaning brush set | $4–$10 | Growth product, not a money product: under $1 commission per sale, but great hooks |
+
+**Before buying each one, check the listing:**
+- 4.5★ or higher, 1,000+ sold, and within the target price
+- Read three 1-star reviews. If they describe the same failure, choose a different listing.
+
+The spin scrubber category gets mixed durability reviews (see Consumer Reports and Kimola). Film a follow-up at 30 days whatever happens.
+
 ---
 
 ## Sources
